@@ -3,7 +3,7 @@ const Array =[
         NomJoeur:'Lionel Messi',
         equipe:'Inter Miami CF',
         age:'36ans',
-        nationalite:'Argentine ',
+        nationality:'Argentine ',
         poste:'Ataquant',
         numero:'10'
     },
@@ -11,7 +11,7 @@ const Array =[
         NomJoeur:'Mesut Özil',
         equipe:'stanbul Başakşehir',
         age:'34ans',
-        nationalite:'Allemand ',
+        nationality:'Allemand ',
         poste:'	Milieu offensif ',
         numero:'10'
     },
@@ -19,7 +19,7 @@ const Array =[
         NomJoeur:'Mohamed Salah',
         equipe:' Liverpool FC',
         age:'31ans',
-        nationalite:'Égyptien ',
+        nationality:'Égyptien ',
         poste:'Ataquant',
         numero:'10'
     },
@@ -27,7 +27,7 @@ const Array =[
         NomJoeur:'Cristiano Ronaldo',
         equipe:' Al-Nassr FC',
         age:'38ans',
-        nationalite:'Portugaise ',
+        nationality:'Portugaise ',
         poste:'Ataquant',
         numero:'7',
     },
