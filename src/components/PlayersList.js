@@ -1,11 +1,11 @@
 import Player from './Player';
-import Array from './Array';
+import players from './players';
 
 const PlayersList = () => {
   return (
-    <div>
-      {Array.map((player) => (
-        <Player key={player.name} {...player} />
+    <div  style={{display:'flex', justifyContent:'space-around'}}>
+      {players.map((player) => (
+        <Player  key={player.imgg} {...player}  />
       ))}
     </div>
   );

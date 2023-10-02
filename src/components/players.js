@@ -1,4 +1,4 @@
-const Array =[
+const players =[
     {   imgg:'./images/messi.jpg',
         NomJoeur:'Lionel Messi',
         equipe:'Inter Miami CF',
@@ -32,6 +32,6 @@ const Array =[
         numero:'7',
     },
 ]
-export default Array;
+export default players;
 
 
